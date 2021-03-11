@@ -1,0 +1,136 @@
+#EXTM3U
+
+#EXTINF:-1,87.6 Hard Rock FM Jakarta
+http://streaming.mramedia.com:8000/hardrock.m3u
+
+#EXTINF:-1,Mustang 88 FM Jakarta
+http://live.indostreamserver.com:8800/mustang.m3u
+
+#EXTINF:-1,88.4 FM Global Radio Jakarta
+http://202.147.199.98:8000/listen.pls
+
+#EXTINF:-1,88.8 FM RRI Pro 3 Jakarta
+http://ch1.mediax9.com:8082/autodj.m3u
+
+#EXTINF:-1,89.6 FM I-Radio Jakarta
+http://streaming.mramedia.com:8000/iradio.m3u
+
+#EXTINF:-1,90 Elshinta FM Jakarta
+http://202.137.4.147:8000/listen.pls
+
+#EXTINF:-1,90.4 Cosmopolitan FM Jakarta
+http://streaming.mramedia.com:8000/cosmo.m3u
+
+#EXTINF:-1,90.8 FM OZ Radio Jakarta
+http://ozjakarta.rastream.com/ozjakarta.m3u
+
+#EXTINF:-1,91.2 FM RRI Pro 1 Jakarta
+http://27.50.19.174:8000/programa1.m3u
+
+#EXTINF:-1,92.0 Sonora FM Jakarta
+http://58.65.241.99:8080/live.m3u
+
+#EXTINF:-1,92.4 PAS FM Jakarta
+http://202.146.225.106:8080/listen.pls
+
+#EXTINF:-1,92.8 FM RRI Pro 4 Jakarta
+http://27.50.19.174:8000/programa4.m3u
+
+#EXTINF:-1,93.6 Gaya FM
+http://stream.suararadio.com:8000/gayafm_mono.m3u
+
+#EXTINF:-1,93.9 Mersi FM Jakarta
+http://mersifm939.myradio.web.id:8888/mersifm939
+
+#EXTINF:-1,94.3 FM Woman Radio Jakarta
+http://womanradio.co.id/?page_id=408
+
+#EXTINF:-1,95.1 KIS FM Jakarta
+http://live.indostreamserver.com:8800/kisfm.m3u
+
+#EXTINF:-1,95.5 RAS FM Jakarta
+http://i.klikhost.com:9006/listen.pls
+
+#EXTINF:-1,95.9 Smart FM Jakarta
+http://101.50.0.77:8000/smartfm.aac.m3u
+
+#EXTINF:-1,96.3 FM Radio Pelita Kasih Jakarta
+http://rpk.indostreamserver.com:8028/listen.pls
+
+#EXTINF:-1,97.1 FM Radio Dangdut Indonesia Jakarta
+http://202.147.199.99:8000/listen.pls
+
+#EXTINF:-1,97.5 FM Motion Radio Jakarta
+http://202.146.4.28:8003/listen.pls
+
+#EXTINF:-1,97.9 FM FeMale Radio Jakarta
+http://live.masima.co.id/female.m3u
+
+#EXTINF:-1,98.3 FM Cakrawala Mandarin Station Jakarta
+http://live.indostreamserver.com:8052/listen.pls
+
+#EXTINF:-1,98.7 Gen FM Jakarta
+http://www.987genfm.com:8000/genfm.m3u
+
+#EXTINF:-1,99.1 Delta FM Jakarta
+http://partner.masima.rastream.com/masima-deltajakarta.m3u
+
+#EXTINF:-1,99.5 FM Urban RKM Jakarta
+http://i.klikhost.com:8634/listen.pls
+
+#EXTINF:-1,99.9 FM Ninetyniners Jakarta
+http://103.28.148.18:8502/listen.pls
+
+#EXTINF:-1,100.3 FM Elgangga Bekasi
+http://103.28.148.18:8174/listen.pls
+
+#EXTINF:-1,100.6 FM Heartline Karawaci
+http://202.129.186.43:7010/listen.pls
+
+#EXTINF:-1,101 Jak FM Jakarta
+http://www.987genfm.com:8000/jak.m3u
+
+#EXTINF:-1,101.4 Trax FM Jakarta
+http://apps.radioactive.sg/mra/public/trax/
+
+#EXTINF:-1,101.8 Bahana FM Jakarta
+http://173.0.54.123:8000/bahana.m3u
+
+#EXTINF:-1,102.2 FM Prambors Jakarta
+http://partner.masima.rastream.com/masima-pramborsjakarta.m3u
+
+#EXTINF:-1,102.6 FM Camajaya Jakarta
+http://live.camajayafm.com:8220/listen.pls
+
+#EXTINF:-1,103 POP FM Depok
+http://103popfmjakarta.big.net.id/listen.pls
+
+#EXTINF:-1,103.4 Radio DFM Jakarta
+http://radiodfm.com:8000/listen.pls
+
+#EXTINF:-1,103.8 FM Brava Radio Jakarta
+http://apps.radioactive.sg/mra/public/brava
+
+#EXTINF:-1,104.2 MS Tri FM Jakarta
+http://mstrifm.onlivestreaming.net:1042/listen.pls
+
+#EXTINF:-1,104.6 FM Sindo Trijaya Jakarta
+http://202.147.199.101:8000/listen.pls
+
+#EXTINF:-1,105 FM RRI Pro 2 Jakarta
+http://27.50.19.174:8000/programa2.m3u
+
+#EXTINF:-1,105.4 FM Radio CBB Jakarta
+http://live.bandardangdut.net:8228/listen.pls
+
+#EXTINF:-1,105.8 Lite FM Jakarta
+http://live.indostreamserver.com:8800/litefm.m3u
+
+#EXTINF:-1,106.2 FM Bens Radio Jakarta
+http://175.103.58.72:8000/listen.pls
+
+#EXTINF:-1,106.6 FM V Radio Jakarta
+http://202.147.199.100:8000/listen.pls
+
+#EXTINF:-1,107 Dakta FM Bekasi
+http://www.dakta.com:8000/listen.pls
